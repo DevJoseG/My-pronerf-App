@@ -10,7 +10,7 @@ Esta es una aplicación movil creada con React Native, esta aplicación no es 10
 * [Porfolio web](https://josegutierrez-portafolio.netlify.app/)
   
 ## Ver ejemplo en vivo 
-* [My Pronerf App](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7026287758411223040)
+* [My Pronerf App](https://www.linkedin.com/posts/devjoseg_react-diseaeho-trabajo-activity-7026287882889744384-SQ0R?utm_source=share&utm_medium=member_desktop)
   
 ## Contratación
 Si quieres contratarme puedes escribirme a dev.josegutierrez@gmail.com para consultas.
